@@ -1,0 +1,21 @@
+#nomeH4{
+    position: absolute;
+    top: 25.2%;
+    left: 17.6%;
+    z-index: 1;
+    font-size: 15px;
+}
+#enderecoH4{
+    position: absolute;
+    top: 58.2%;
+    left: 17.6%;
+    z-index: 1;
+    font-size: 15px;
+}
+#emailH4{
+    position: absolute;
+    top: 42.2%;
+    left: 17.6%;
+    z-index: 1;
+    font-size: 15px;
+}

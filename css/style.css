@@ -1,0 +1,95 @@
+/* style index */
+#logo {
+    margin: 5px 0px 10px 0;
+    width: 50px;
+    height: 50px;
+}
+
+#diarizei {
+    text-shadow: black 0.1em 0.1em 0.4em;
+    color: white;
+    margin-left: 10px;
+    letter-spacing: 3px;
+    font-family: 'Kanit';
+    text-decoration: none;
+    outline: none;
+    font-size: 30px;
+}
+
+#search {
+    margin-left: 140px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+#searchbutton {
+    margin-left: 5px;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#registro {
+    border-radius: 10px;
+    padding-bottom: 2px;
+    
+}
+#registro:hover{
+    background-color: rgb(87, 8, 8);
+    cursor: pointer;
+}
+#service {
+    border-radius: 10px;
+    padding-bottom: 2px;
+}
+#service:hover{
+    background-color: rgb(87, 8, 8);
+    cursor: pointer;
+}
+#img1{
+    margin-left: 520px;
+
+}
+#service{
+    margin-right: 20px;
+}
+.button1 {
+    position: absolute;
+    top: 57.2%;
+    left: 8.8%;
+    z-index: 1;
+    background-color: transparent;
+    border: none;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 30.2%;
+    height: 9%;
+    cursor: pointer;
+  }
+
+.button2 {
+    position: absolute;
+    top: 61.2%;
+    left: 20.2%;
+    z-index: 1;
+    background-color: transparent;
+    border: none;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 16.9%;
+    height: 6.5%;
+    cursor: pointer;
+    text-decoration: none;
+  }
+#frase {
+    text-shadow: black 0.1em 0.1em 0.4em;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+    letter-spacing: 3px;
+    font-family: 'Kanit';
+    text-decoration: none;
+    outline: none;
+    font-size: 60px;
+}
+#hometext{
+    text-decoration: none;
+}
