@@ -1,5 +1,5 @@
 # Projeto-Diarizei
- Projeto feito por estudante para a AV1 (desenvolvimento web) do 1º Semestre da faculdade UNIJORGE  (um site ficticio de um MEI)]
+ Projeto feito por estudantes para a AV1 (desenvolvimento web) do 1º Semestre da faculdade UNIJORGE  (um site ficticio de um MEI)]
  
  # Grupo:
  <a href="https://github.com/guibzeradev">Gibson Couto</a> <br>
